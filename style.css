@@ -1,0 +1,54 @@
+body{
+    /* position: absolute; */
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+    background: #EFF5F5;
+}
+
+
+
+#carsgif{
+ width: 1000px; 
+ height: 400px;  
+ padding: 50px;
+ /* border: 8px solid black; */
+ filter: blur(6px);
+ 
+}
+
+
+#myname{
+    position: absolute;
+    top: 180px;
+    left: 750px;
+    font-size: 4em;
+    padding: 15px 80px;
+    border:#F05454 8px solid;
+    font-family: 'Indie Flower', cursive;
+    color:#F5F5F5;
+    font-style: italic  ;
+    background-color: #3c404888;
+    text-shadow:#F05454 30px;
+    letter-spacing: 8px;
+}
+
+#roottwo{
+    text-align: left;
+    height: 600px;
+    width: 800px;
+    position: absolute;
+    left: 530px;
+    font-size: 1.2em;
+    
+}
+
+li{
+    list-style-type:lower-greek;
+}
+
+h2{
+    color: #F05454;
+    text-decoration: overline 3px #30475E;
+}
